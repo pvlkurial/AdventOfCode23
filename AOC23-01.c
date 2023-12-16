@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 
+
 int getNumberOfLine(char * array, size_t lenght){
     int dig1;
     bool isInit = false;
